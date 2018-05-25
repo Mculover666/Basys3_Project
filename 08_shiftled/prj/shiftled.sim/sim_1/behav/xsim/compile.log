@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/FPGA/Basys3/project/08_shiftled/prj/shiftled.srcs/sources_1/new/shiftled.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shiftled
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/FPGA/Basys3/project/08_shiftled/prj/shiftled.srcs/sim_1/new/shiftled_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shiftled_tb

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Tue May 22 20:00:50 2018
+# Process ID: 2536
+# Current directory: F:/FPGA/Basys3/project/06_counter_4bit/prj/counter_4bit.runs/synth_1
+# Command line: vivado.exe -log counter_4bit.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source counter_4bit.tcl
+# Log file: F:/FPGA/Basys3/project/06_counter_4bit/prj/counter_4bit.runs/synth_1/counter_4bit.vds
+# Journal file: F:/FPGA/Basys3/project/06_counter_4bit/prj/counter_4bit.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source counter_4bit.tcl -notrace

@@ -1,0 +1,8 @@
+0.6
+2018.1
+Apr  4 2018
+19:30:32
+F:/FPGA/Basys3/project/10_Dynamic_seg_display/prj/Dynamic_seg_display.sim/sim_1/behav/xsim/glbl.v,1522801934,verilog,,,,glbl,,,,,,,,
+F:/FPGA/Basys3/project/10_Dynamic_seg_display/prj/Dynamic_seg_display.srcs/sim_1/new/Dynamic_seg_display_tb.v,1527076649,verilog,,,,Dynamic_seg_display_tb,,,,,,,,
+F:/FPGA/Basys3/project/10_Dynamic_seg_display/prj/Dynamic_seg_display.srcs/sources_1/new/Dynamic_seg_display.v,1527077242,verilog,,F:/FPGA/Basys3/project/10_Dynamic_seg_display/prj/Dynamic_seg_display.srcs/sources_1/new/seg_display.v,,Dynamic_seg_display;mux4,,,,,,,,
+F:/FPGA/Basys3/project/10_Dynamic_seg_display/prj/Dynamic_seg_display.srcs/sources_1/new/seg_display.v,1526961586,verilog,,F:/FPGA/Basys3/project/10_Dynamic_seg_display/prj/Dynamic_seg_display.srcs/sim_1/new/Dynamic_seg_display_tb.v,,decoder2_4;decoder_display;seg_display,,,,,,,,

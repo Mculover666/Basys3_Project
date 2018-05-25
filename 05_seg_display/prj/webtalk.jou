@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Tue May 22 12:10:16 2018
+# Process ID: 11096
+# Current directory: F:/FPGA/Basys3/project/05_decoder_display/prj
+# Command line: wbtcv.exe -mode batch -source F:/FPGA/Basys3/project/05_decoder_display/prj/project_1.hw/webtalk/labtool_webtalk.tcl -notrace
+# Log file: F:/FPGA/Basys3/project/05_decoder_display/prj/webtalk.log
+# Journal file: F:/FPGA/Basys3/project/05_decoder_display/prj\webtalk.jou
+#-----------------------------------------------------------
+source F:/FPGA/Basys3/project/05_decoder_display/prj/project_1.hw/webtalk/labtool_webtalk.tcl -notrace

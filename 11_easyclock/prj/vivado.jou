@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Wed May 23 20:34:15 2018
+# Process ID: 12248
+# Current directory: F:/FPGA/Basys3/project/11_easyclock/prj
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11936 F:\FPGA\Basys3\project\11_easyclock\prj\easyclock.xpr
+# Log file: F:/FPGA/Basys3/project/11_easyclock/prj/vivado.log
+# Journal file: F:/FPGA/Basys3/project/11_easyclock/prj\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project F:/FPGA/Basys3/project/11_easyclock/prj/easyclock.xpr

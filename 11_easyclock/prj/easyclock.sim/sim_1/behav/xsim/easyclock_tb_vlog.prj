@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../easyclock.srcs/sources_1/new/BCDcounter/BCDcounter.v" \
+"../../../../easyclock.srcs/sources_1/new/BCDcounter/BCDcounter_top.v" \
+"../../../../easyclock.srcs/sources_1/new/Dynamic_seg_display/Dynamic_seg_display.v" \
+"../../../../easyclock.srcs/sources_1/new/easyclock.v" \
+"../../../../easyclock.srcs/sources_1/new/Dynamic_seg_display/seg_display.v" \
+"../../../../easyclock.srcs/sim_1/new/easyclock_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
